@@ -1,4 +1,4 @@
 # AwesumIndustrys.github.io
-The official website for anything relating to me and my channels or projects, such as TechNose or my programs.
+The official website for anything relating to me and my channels or projects.
 
-CURRENT VERSION: 24w40a (pre-pre-pre-alpha)
+CURRENT VERSION: 24w44a (pre-pre-pre-alpha)
